@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Count\ time.\ Notify\ of\ 'Game\ Over'\ when\ game\ time\ is\ reached.\r\n
+comment1.params=
+comment1.target=void\ checkFinish()
+comment1.text=\r\n\ Check\ whether\ this\ map\ is\ finished.\ This\ is\ the\ case\ if\ time\ is\ up,\ or\ \r\n\ all\ tomatoes\ are\ gone.\r\n
+comment2.params=
+comment2.target=boolean\ timeOut()
+comment2.text=\r\n\ Return\ true\ if\ game\ time\ is\ up.\r\n
+comment3.params=
+comment3.target=boolean\ allTomatoesGone()
+comment3.text=\r\n\ Return\ true\ if\ there\ are\ no\ tomatoes\ left\ in\ this\ map.\r\n
+comment4.params=
+comment4.target=void\ gameOver()
+comment4.text=\r\n\ Notify\ that\ the\ level\ is\ over.\r\n
+numComments=5
