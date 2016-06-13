@@ -36,5 +36,5 @@ comment8.target=void\ storeTomato()
 comment8.text=\r\n\ Record\ that\ we\ have\ collected\ another\ tomato.\r\n
 comment9.params=
 comment9.target=int\ getTomatoCount()
-comment9.text=\r\n\ Return\ the\ current\ count\ of\ tomatos\ collected.\r\n
+comment9.text=\r\n\ Return\ the\ current\ count\ of\ tomatoes\ collected.\r\n
 numComments=13

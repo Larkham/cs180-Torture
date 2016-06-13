@@ -159,7 +159,7 @@ public class Ship extends Actor
     }
     
     /**
-     * Return the current count of tomatos collected.
+     * Return the current count of tomatoes collected.
      */
     public int getTomatoCount()
     {
